@@ -11255,55 +11255,55 @@ header.masthead .masthead-heading {
   height: 2.75rem;
 }
 
-section#contactame {
+section#contactanos {
   background-color: #212529;
   background-image: url("../assets/img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
 }
-section#contactame .section-heading {
+section#contactanos .section-heading {
   color: #fff;
 }
-section#contactame form#contactForm .form-group {
+section#contactanos form#contactForm .form-group {
   margin-bottom: 1.5rem;
 }
-section#contactame form#contactForm .form-group input,
-section#contactame form#contactForm .form-group textarea {
+section#contactanos form#contactForm .form-group input,
+section#contactanos form#contactForm .form-group textarea {
   padding: 1.25rem;
 }
-section#contactame form#contactForm .form-group input.form-control {
+section#contactanos form#contactForm .form-group input.form-control {
   height: auto;
 }
-section#contactame form#contactForm .form-group-textarea {
+section#contactanos form#contactForm .form-group-textarea {
   height: 100%;
 }
-section#contactame form#contactForm .form-group-textarea textarea {
+section#contactanos form#contactForm .form-group-textarea textarea {
   height: 100%;
   min-height: 10rem;
 }
-section#contactame form#contactForm p.help-block {
+section#contactanos form#contactForm p.help-block {
   margin: 0;
 }
-section#contactame form#contactForm .form-control:focus {
+section#contactanos form#contactForm .form-control:focus {
   border-color: #ffc800;
   box-shadow: none;
 }
-section#contactame form#contactForm ::-webkit-input-placeholder {
+section#contactanos form#contactForm ::-webkit-input-placeholder {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   color: #ced4da;
 }
-section#contactame form#contactForm :-moz-placeholder {
+section#contactanos form#contactForm :-moz-placeholder {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   color: #ced4da;
 }
-section#contactame form#contactForm ::-moz-placeholder {
+section#contactanos form#contactForm ::-moz-placeholder {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   color: #ced4da;
 }
-section#contactame form#contactForm :-ms-input-placeholder {
+section#contactanos form#contactForm :-ms-input-placeholder {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   color: #ced4da;
